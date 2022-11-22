@@ -25,6 +25,11 @@ export function About() {
           </Anchor>
         </List.Item>
         <List.Item>
+          <Anchor href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html" target="_blank">
+            Giới thiệu Typescript
+          </Anchor>
+        </List.Item>
+        <List.Item>
           <Anchor href="https://www.w3schools.com/html/html_basic.asp" target="_blank">
             Giới thiệu HTML
           </Anchor>

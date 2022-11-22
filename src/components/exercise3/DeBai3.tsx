@@ -3,7 +3,7 @@ import { Anchor, List, Text } from '@mantine/core';
 export default function DeBai3() {
   return <>
     <List type="ordered">
-      <List.Item>Tham khảo trang <Anchor href="https://test-fresher-2d5iub70k-tvhoang91.vercel.app" target="_blank">
+      <List.Item>Tham khảo trang <Anchor href="https://test-fresher.vercel.app/" target="_blank">
         Ví dụ
       </Anchor>
       </List.Item>

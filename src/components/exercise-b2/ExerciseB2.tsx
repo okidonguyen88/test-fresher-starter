@@ -9,7 +9,7 @@ export default function ExerciseB2() {
   return (
     <>
       <Group position='apart'>
-        <Title order={1}>Exercise B2: Object Handling</Title>
+        <Title order={1}>Exercise B2: Incoming</Title>
         <Button onClick={() => setOpened(true)}>
           Đề bài
         </Button>
