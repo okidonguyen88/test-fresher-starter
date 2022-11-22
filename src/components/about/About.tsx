@@ -13,7 +13,7 @@ export function About() {
         Bạn hãy làm các bài tập theo thứ tự. Bấm vào đề bài để xem yêu cầu và ví dụ.
       </Text>
       <Text>
-        Bạn bạn ứng viên chưa có kinh nghiệm có thể được cho thêm thời gian để học các kiến thức cần thiết.
+        Các bạn ứng viên chưa có kinh nghiệm có thể được cho thêm thời gian để học các kiến thức cần thiết.
       </Text>
       <Text>
         Một số nguồn để học và tham khảo trước khi làm bài như sau.
@@ -49,6 +49,11 @@ export function About() {
             Giới thiệu Mantine
           </Anchor>
         </List.Item>
+        <List.Item>
+          <Anchor href="https://www.youtube.com/watch?v=E6ADS2k8oNQ&t=460s" target="_blank">
+            Sử dụng Git trong VSCode
+          </Anchor>
+        </List.Item>
       </List>
 
       <Text mt="xl">
@@ -57,7 +62,7 @@ export function About() {
         >Source Code</Anchor> từ Github về và chạy lệnh <Code>npm install</Code> để cài đặt các thư viện cần thiết.
       </Text>
       <Text>
-        Để gửi bài làm. Bạn hãy zip source của mình như sau <Code>git archive -o latest.zip HEAD</Code>. Sau đó gửi file zip này qua email.
+        Để gửi bài làm, Bạn hãy zip source của mình như sau <Code>git archive -o latest.zip HEAD</Code>. Sau đó gửi file zip này qua email.
       </Text>
     </>
   );
