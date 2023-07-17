@@ -3,4 +3,10 @@
     "editor.tabSize": 2,
     "typescript.format.enable": true,
     "typescript.format.semicolons": "insert",
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    }
 }
