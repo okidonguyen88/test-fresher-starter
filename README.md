@@ -19,5 +19,6 @@
 
 ## Cách tạo file zip nộp bài
 
-- Commit
-- Run `git archive -o latest.zip HEAD`
+- Stage Change `git add --all`
+- Commit `git commit`
+- Archive zip file `git archive -o latest.zip HEAD`

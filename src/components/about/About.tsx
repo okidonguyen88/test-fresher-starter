@@ -62,7 +62,7 @@ export function About() {
         >Source Code</Anchor> từ Github về và chạy lệnh <Code>npm install</Code> để cài đặt các thư viện cần thiết.
       </Text>
       <Text>
-        Để gửi bài làm, Bạn hãy commit rồi zip source của mình như sau <Code>git archive -o latest.zip HEAD</Code>. Sau đó gửi file zip này qua email.
+        Để gửi bài làm, Bạn hãy add <Code>git add --all</Code>, commit <Code>git commit</Code> rồi zip source của mình như sau <Code>git archive -o latest.zip HEAD</Code>. Sau đó gửi file zip này qua email.
       </Text>
     </>
   );
